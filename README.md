@@ -197,6 +197,8 @@ npm run lint     # Code linting
 
 ## 🔧 Development
 
+![App Screenshot](public/app-screenshot.png)
+
 ### Available Scripts
 ```bash
 npm run dev              # Development server
